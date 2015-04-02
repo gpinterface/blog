@@ -6,7 +6,7 @@ url: "http://www.gpinterface.com.br/blog"
 theme:
   # Meta
   title: Interface
-  avatar: avatar.png
+  avatar:
   gravatar: # Email MD5 hash
   description: "Blog do Grupo Interdisciplinar de Pesquisa em Filosofia e Cultura IFB/CNPq" # used by search engines
   
