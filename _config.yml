@@ -8,7 +8,7 @@ theme:
   title: Interface
   avatar: avatar.png
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "Blog do Grupo Interdisciplinar de Pesquisa em Filosofia e Cultura IFB/CNPq" # used by search engines
   
   # Header and footer text
   header_text: >
