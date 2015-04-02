@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/blog"
+baseurl: "/"
 url: "https://gpinterface.com.br/blog"
 
 # THEME-SPECIFIC CONFIGURATION
@@ -15,7 +15,7 @@ theme:
      <p>Blog do Grupo Interdisciplinar de Pesquisa em Filosofia e Cultura IFB/CNPq.</p>
      
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a>.
+   Feito com <a href="http://jekyllrb.com">Jekyll</a>.
   
   # Icons
   rss: false
