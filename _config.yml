@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/blog"
-url: "https://gpinterface.com.br/blog"
+url: "http://www.gpinterface.com.br/blog"
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
