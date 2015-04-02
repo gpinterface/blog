@@ -18,7 +18,7 @@ theme:
    Feito com <a href="http://jekyllrb.com">Jekyll</a>.
   
   # Icons
-  rss: false
+  rss: true
   email_address: "gpinterface@gmail.com"
   behance:
   bitbucket: 
